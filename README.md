@@ -1,6 +1,6 @@
 # r0gg-scripts                                                                                                                                                     
                                                                                                                                                                    
-A collection of offensive security scripts built alongside HTB labs and research.                                                                                  
+offensive security scripts built alongside HTB labs and research.                                                                                  
                                                                                                                                                                    
 ---                                                                                                                                                                
                                                           
