@@ -8,7 +8,9 @@ offensive security scripts built alongside HTB labs and research.
  
 Automates repeated POST requests to an endpoint protected only by a client-side                                                                                    
 `disabled` attribute. Designed for the HTB *Lucky* challenge, where the flag is
-returned probabilistically and may require multiple hits.                                                                                                          
+returned probabilistically and may require multiple hits.  
+
+https://rogg.red/post.html?slug=htbcwes-using-web-proxies---skills-assessment         
                                                           
 ### Usage                                                                                                                                                          
                                                           
