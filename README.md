@@ -27,19 +27,9 @@ How it works
 The script mirrors the exact HTTP request a browser would send if the disabled                                                                                     
 attribute were removed from the button — including Referer and Origin headers.
 It loops up to 8 attempts and exits as soon as the flag pattern HTB{...} is                                                                                        
-found in the response.                                                                                                                                             
-                                                                                                                                                                   
----                                                                                                                                                                
-                                                          
-▎ Scripts in this repo are written for authorized lab environments (HTB, CTF).                                                                                     
-▎ Do not use against systems you don't own or have explicit permission to test.
-                                                                                                                                                                   
----                                                       
-
-**Section blog** :                                                                                                                                                 
+found in the response.                                                                                                                                    
  
-Download the script directly from my GitHub:                                                                                                                       
-                                                          
+Download the script directly from my GitHub:                                                                                                                                                                            
 wget https://raw.githubusercontent.com/0xrogg/r0gg-scripts/main/hitbutton.py
                                                                                                                                                                    
 Usage:
