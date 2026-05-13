@@ -25,11 +25,12 @@ pip install requests
 How it works
 
 The script mirrors the exact HTTP request a browser would send if the disabled                                                                                     
-attribute were removed from the button — including Referer and Origin headers.
+attribute were removed from the button including Referer and Origin headers.
 It loops up to 8 attempts and exits as soon as the flag pattern HTB{...} is                                                                                        
 found in the response.                                                                                                                                    
  
-Download the script directly from my GitHub:                                                                                                                                                                            
+Download the script:
+                                                                                                                                                                            
 wget https://raw.githubusercontent.com/0xrogg/r0gg-scripts/main/hitbutton.py
                                                                                                                                                                    
 Usage:
